@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.22631.3880]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ansaf>java --version
+java 17.0.11 2024-04-16 LTS
+Java(TM) SE Runtime Environment (build 17.0.11+7-LTS-207)
+Java HotSpot(TM) 64-Bit Server VM (build 17.0.11+7-LTS-207, mixed mode, sharing)
+
+C:\Users\ansaf>javac --version
+javac 17.0.11
+
+C:\Users\ansaf>jshell
+|  Welcome to JShell -- Version 17.0.11
+|  For an introduction type: /help intro
+
+jshell> 4+7
+$1 ==> 11
